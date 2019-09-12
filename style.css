@@ -22,12 +22,15 @@ nav > a {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+
+#featured-property > p {
+    margin: auto;
     width: 800px;
 }
 
 .main_image {
-    display: block;
-    justify-items: center;
+    align-self: auto;
     width: 800px;
 }
 
